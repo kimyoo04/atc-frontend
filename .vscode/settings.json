@@ -1,0 +1,25 @@
+{
+  // 추가
+  "eslint.workingDirectories": [
+    { "pattern": "./packages/*/" },
+    { "pattern": "./configs/*/" }
+  ],
+  "files.eol": "\n",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": false,
+  "cSpell.words": [
+    "cmdk",
+    "embla",
+    "ianvs",
+    "invi",
+    "shadcn",
+    "tanstack",
+    "trpc",
+    "vaul",
+    "atc"
+  ]
+}

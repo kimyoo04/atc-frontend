@@ -1,0 +1,10 @@
+{
+  "name": "@atc/configs-prettier",
+  "version": "0.0.1",
+  "module": "index.js",
+  "peerDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0"
+  }
+}
